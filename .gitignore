@@ -133,4 +133,6 @@ all_repos.json
 interesting_repos.json
 interesting_data.json
 interesting_data.csv
-.env
+interesting_sizes.txt
+interesting_locs.txt
+interesting_locs.csv
