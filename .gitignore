@@ -130,6 +130,7 @@ dmypy.json
 
 .idea
 all_repos.json
-selected_repos.json
+interesting_repos.json
 interesting_data.json
 interesting_data.csv
+.env
