@@ -19,3 +19,7 @@ we have some dependencies:
 * some clis:
   * `jq`
   * `scc`
+
+## roadmap
+
+Probably add code-maat or some other churn measure tool
