@@ -136,3 +136,5 @@ interesting_data.csv
 interesting_sizes.txt
 interesting_locs.txt
 interesting_locs.csv
+repos/*
+!repos/.gitkeep
