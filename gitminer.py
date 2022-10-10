@@ -113,7 +113,7 @@ def map_repo(repo: dict):
     g = lambda p: repo.get(p, "GREPPABLEERROR")
     return {
         "name": g("name"),
-        "url": g("url"),
+        "url": g("html_url"),
         "description": g("description"),
         "last_push": g("pushed_at"),
         "size_on_disk": g("size"),
